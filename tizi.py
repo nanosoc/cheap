@@ -9,7 +9,7 @@ TG_USER_ID = ''             # telegram 用户ID
 def get_email():
     a = random.randint(11, 99)
     b = random.randint(0, 20)
-    email = 'varytmp+{}uu{}d@gmail.com'.format(a, b)
+    email = 'lengtmp+{}no{}@gmail.com'.format(a, b)
     return email
 def send(email):
     data = {
